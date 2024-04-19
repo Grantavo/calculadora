@@ -1,4 +1,4 @@
-# CalculatorJSOneLine
+# Calculadora
 Este es un proyecto de calculadora con JavaScript
 
 ## Preview
