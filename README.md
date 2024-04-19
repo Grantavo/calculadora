@@ -1,5 +1,5 @@
 # CalculatorJSOneLine
-Calculator with only one line (instruction) of javascript
+Este es un proyecto de calculadora con JavaScript
 
 ## Preview
 
@@ -9,5 +9,4 @@ Calculator with only one line (instruction) of javascript
   </kbd>
 </p>
 
-## Video Demo
-https://www.youtube.com/watch?v=liBiDMUVfR4
+
